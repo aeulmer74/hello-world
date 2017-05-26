@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+trying to understand git
